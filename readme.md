@@ -4,7 +4,7 @@
 2.1. If best match is a future movie than it is kept as lowest rating movie
 2.2. Movies with same rating are sorted with name 
 3.   assumptions :
-3.1  directory to be provided after bash command
-4.   Output file :final_rate.txt
+3.1.  directory to be provided after bash command
+4.   Output file :console
 ---------------------------------------------------------------------------
 
