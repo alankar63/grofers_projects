@@ -5,6 +5,6 @@
 2.2. Movies with same rating are sorted with name 
 3.   assumptions :
 3.1.  directory to be provided after bash command
-4.   Output file :final_rate.txt
+4.   Output file :console
 ---------------------------------------------------------------------------
 
